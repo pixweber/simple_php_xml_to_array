@@ -1,0 +1,13 @@
+{
+    "name": "pixweber/xmlfiletoarray",
+    "description": "A very simple function to load your XML file and convert it into PHP array. Easy and effective.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "The Hau LE",
+            "email": "contact@pixweber.com"
+        }
+    ],
+    "require": {}
+}
